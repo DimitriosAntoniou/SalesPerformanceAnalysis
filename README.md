@@ -71,6 +71,11 @@ The `.pbix` file includes:
 
 ---
 
+---
+
+*Portfolio project by Dimitrios Antoniou | April 2026*  
+*🔗 [LinkedIn](https://www.linkedin.com/in/dimitrios-antoniou-ba0342298/) | [GitHub](https://github.com/DimitriosAntoniou)*
+
 ## 📁 Data Sources
 
 - [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
