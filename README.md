@@ -1,11 +1,11 @@
-# 🛒 Sales Performance Analysis
+#  Sales Performance Analysis
 **Tools:** Python (pandas, matplotlib, seaborn) · SQL (SQLite) · Power BI
 
 An end-to-end data analysis project on 10,000+ retail transactions from the Kaggle Superstore dataset, enriched with US population data to enable per-capita insights.
 
 ---
 
-## 📌 Business Questions Answered
+##  Business Questions Answered
 
 | # | Question |
 |---|----------|
@@ -20,7 +20,7 @@ An end-to-end data analysis project on 10,000+ retail transactions from the Kagg
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - **Discounts above 20% consistently produce negative profit margins** — orders with 21–40% discounts averaged a loss of $77.86 per transaction
 - **Furniture** has high revenue ($741K) but extremely low profit ($18K) — the most problematic category
@@ -31,7 +31,7 @@ An end-to-end data analysis project on 10,000+ retail transactions from the Kagg
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ├── analysis.py                      # Python: data cleaning, EDA, visualizations, RFM
@@ -50,7 +50,7 @@ An end-to-end data analysis project on 10,000+ retail transactions from the Kagg
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The `.pbix` file includes:
 - KPI cards (Total Sales, Total Profit, Profit Margin, Total Orders)
@@ -61,7 +61,7 @@ The `.pbix` file includes:
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone the repo
 2. Install dependencies: `pip install pandas matplotlib seaborn`
